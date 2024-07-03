@@ -1,0 +1,11 @@
+---
+import Section from "../Section.astro";
+
+import { skills } from "@/cv.json";
+---
+
+<Section title="Skills">
+  <ul>
+    {skills.map(({ name }) => <span>{name}</span>)}
+  </ul>
+</Section>
