@@ -241,7 +241,7 @@
     },
     {
       "name": "codi.link",
-      "isActive": true,
+      "isActive": false,
       "description": "Playground de código HTML, CSS y JavaScript para compartir",
       "highlights": ["100k visitas al mes", "Desarrollado por la comunidad"],
       "url": "https://codi.link",
@@ -257,6 +257,7 @@
     },
     {
       "name": "miduConf",
+      "isActive": false,
       "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
       "highlights": ["+15k tickets repartidos", "+50k espectadores en directo"],
       "url": "https://miduconf.com"
