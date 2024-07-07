@@ -17,69 +17,70 @@
     "profiles": [
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "Harley_Dev",
+        "url": "https://github.com/HarleyPelaezTellez"
       },
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "Harley_Dev",
+        "url": "https://www.linkedin.com/in/harleypelaeztellez98/"
       },
       {
         "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "TellezHarley",
+        "url": "https://x.com/TellezHarley"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
-      "highlights": ["Started the company"]
+      "name": "Cooperativa San Simón",
+      "position": "Auxiliar de sistemas",
+      "url": "https://coopsansimon.com/",
+      "startDate": "2022-10-15",
+      "endDate": "2023-07-08",
+      "summary": "Encargado de la infrestructura tecnológica de la empresa, manejo de bases de datos, envío de mensajería masiva, desarrollo web, entre otros",
+      "highlights": ["Desarrollé página para solicitud de créditos en línea"]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": ["Started the company"]
+      "name": "Supermercados Mercacentro S.A.S",
+      "position": "Cajero Aux. Planta",
+      "url": "https://www.mercacentro.com/",
+      "startDate": "2021-03-17",
+      "endDate": "2022-11-17",
+      "summary": "Cajero auxiliar de planta, manejo de efectivo y demás medios de pago, registro de productos, pago de subsidios, promoción de productos, entre otras funciones.",
+      "highlights": [
+        "Gané reconocimientos monetarios por impulsar productos en eventos"
+      ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-      "highlights": ["Started the company"]
-    }
-  ],
-  "volunteer": [
+      "name": "World Travel Assist",
+      "position": "Analista de Desarrollos Digitales",
+      "url": "https://wtabyhas.com/site/",
+      "startDate": "2023-12-11",
+      "endDate": "2024-07-07",
+      "summary": "Encargado de recibir las solicitudes corporativas, en cuanto a modificación y mantenimiento de las plataformas de emisión de las agencias de viajes, las cuales administramos desde mi departamento, modificación de planes y tarifas para las mismas, entre otras actividades",
+      "highlights": ["Más cerca del desarrollo"]
+    },
     {
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
-      "highlights": ["Awarded 'Volunteer of the Month'"]
+      "name": "Proyectos Personales",
+      "position": "Autodidacta",
+      "url": "https://wtabyhas.com/site/",
+      "startDate": "2016-01-01",
+      "endDate": "2024-12-31",
+      "summary": "Constamente hago proyectos personales para practicar y mejorar mis habilidades",
+      "highlights": ["Fortaleciendo mis capacidades"]
     }
   ],
   "education": [
     {
-      "institution": "Universitat Oberta de Catalunya",
-      "url": "https://www.uoc.edu/portal/es/index.html",
-      "area": "Ingeniero de Software",
-      "studyType": "Bachelor",
-      "startDate": "2003-01-01",
-      "endDate": "2009-01-01",
-      "score": "4.0",
+      "institution": "Servicio Nacional de Aprendizaje SENA",
+      "url": "https://centrodeindustria.blogspot.com/",
+      "area": "Análisis y Desarrollo de Software",
+      "studyType": "Tecnólogo",
+      "startDate": "2021-04-15",
+      "endDate": "2023-04-15",
+      "score": "4.8",
       "courses": ["DB1101 - Basic SQL"]
     }
   ],
@@ -111,18 +112,18 @@
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
+      "level": "Avanzado",
       "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": "Avanzado",
       "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
     },
     {
       "name": "JavaScript",
-      "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+      "level": "Medio",
+      "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
       "name": "Tailwind",
@@ -136,22 +137,17 @@
     },
     {
       "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
+      "level": "Básico-Medio",
+      "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
       "name": "Node",
-      "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+      "level": "Básico-Medio",
+      "keywords": ["Desarrollo Web", "JavaScript"]
     },
     {
       "name": "MySQL",
-      "level": "Avanzado",
+      "level": "Medio",
       "keywords": [
         "Bases de Datos",
         "SQL",
@@ -176,18 +172,17 @@
     },
     {
       "name": "Next.js",
-      "level": "Avanzado",
+      "level": "Básico",
       "keywords": [
         "Desarrollo Web",
         "Frontend",
         "React Framework",
-        "SSR",
         "Static Generation"
       ]
     },
     {
       "name": "React",
-      "level": "Avanzado",
+      "level": "Básico-Medio",
       "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     }
   ],
@@ -198,7 +193,7 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "A2"
     }
   ],
   "interests": [
